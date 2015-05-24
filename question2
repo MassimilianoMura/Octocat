@@ -1,1 +1,1 @@
-Explain what the "upstream" remote is usually used for, in your own words
+The upstream remote is the original repo, the original source. So, for example, you can pull from upstream a repo, make you changes in downstream and then push back to upstrem
